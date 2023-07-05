@@ -4,16 +4,15 @@
 
 </div>
 
-### iOS Developer
-- Machine Learing Engineer, Engineering Manager
-- I organize a group of developers who write blog posts - 글쓰는 개발자 모임, [글또](https://bit.ly/geultto)
-- [PM을 위한 데이터 리터러시](https://inf.run/MXw2) 강의를 인프런에 냈습니다!
+## iOS Developer
+- 유연하고 모듈화된 코드 아키텍처를 사용하여 앱의 유지 보수성을 향상시키고 확장 가능한 소프트웨어를 구축하는 것에 열정을 갖고 있습니다.
+- 새로운 API를 통한 기능 구현 및 MVVM 등의 디자인 패턴에 대해 공부중에 있습니다.
+- 항상 새로운 기술과 도구에 대한 관심을 가지며 개발을 합니다.
 
-### Interest
-- MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
-- Google Cloud Platform(Especially, BigQuery)
-- Operation Research
-- Leadership, Mentoring, Writing, Presentation
+## Interest
+- ####MVVM#### : MVVM 디자인 패턴은 Model, View, ViewModel로 구성되며, 사용자 인터페이스와 비즈니스 로직을 분리하여 유지 보수성과 테스트 용이성을 높이는 아키텍처 패턴입니다.
+- ####RxSwift#### : 함수형 반응형 프로그래밍을 위한 Reactive Extensions(ReactiveX)의 Swift 구현으로, 비동기적인 이벤트와 데이터 스트림을 다루는 강력한 도구입니다.
+
 
 <div align=center>
 
