@@ -10,9 +10,9 @@
 - 항상 새로운 기술과 도구에 대한 관심을 가지며 개발을 합니다.
 
 ## Interest
-- ### MVVM :
+- ### MVVM
    MVVM 디자인 패턴은 Model, View, ViewModel로 구성되며, 사용자 인터페이스와 비즈니스 로직을 분리하여 유지 보수성과 테스트 용이성을 높이는 아키텍처 패턴입니다.
-- ### RxSwift :
+- ### RxSwift
   함수형 반응형 프로그래밍을 위한 Reactive Extensions(ReactiveX)의 Swift 구현으로, 비동기적인 이벤트와 데이터 스트림을 다루는 강력한 도구입니다.
 
 
