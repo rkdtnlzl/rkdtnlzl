@@ -2,6 +2,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frkdtnlzl)](https://hits.seeyoufarm.com) 
 
+github-readme-stats.vercel.app/api?username={사용자명}&show_icons=true&theme=dark
+
 </div>
 
 ## iOS Developer
