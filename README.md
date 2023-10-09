@@ -4,6 +4,8 @@
 
 ![rkdtnlzl's github stats](https://github-readme-stats.vercel.app/api?username=rkdtnlzl&show_icons=true&theme=tokyonight)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkdtnlzl&layout=compact"><br><br>
+
 <div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@rkdtnlzl)](https://velog.io/@rkdtnlzl) 
