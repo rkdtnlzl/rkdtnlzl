@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frkdtnlzl)](https://hits.seeyoufarm.com) 
 
-![rkdtnlzl's github stats](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=tokyonight)
+![rkdtnlzl's github stats](https://github-readme-stats.vercel.app/api?username=rkdtnlzl&show_icons=true&theme=tokyonight)
 
 <div align=center>
 
