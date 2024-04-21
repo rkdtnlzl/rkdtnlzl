@@ -4,8 +4,6 @@
 
 ![rkdtnlzl's github stats](https://github-readme-stats.vercel.app/api?username=rkdtnlzl&show_icons=true&theme=tokyonight)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdtnlzl)](https://solved.ac/rkdtnlzl/)
-
 <div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@rkdtnlzl)](https://velog.io/@rkdtnlzl) 
