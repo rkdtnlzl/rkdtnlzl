@@ -26,7 +26,7 @@ UMC 개발연합동아리 (2022.09 ~ 2023.02)
 ![](https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=JavaScript&logoColor=white)
 
 ## 💻 Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkdtnlzl&layout=compact)](https://github.com/rkdtnlzl/github-readme-stats)
+
 
 
 ## Contact
