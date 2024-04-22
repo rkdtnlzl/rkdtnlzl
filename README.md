@@ -26,7 +26,7 @@ UMC 개발연합동아리 (2022.09 ~ 2023.02)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![](https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=JavaScript&logoColor=white)
 
-## ⚒️ Tool
+## 🛠️ Tool
 
 <img src="https://img.shields.io/badge/xcode-%231575F9.svg?&style=for-the-badge&logo=xcode&logoColor=white" />
 <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
@@ -35,7 +35,7 @@ UMC 개발연합동아리 (2022.09 ~ 2023.02)
 
 
 ## Contact
-<div align=center>
-rkdtnlzl@gmail.com
-rkdtnlzl@naver.com
-</div>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rkdtnlzl@gmail.com)](mailto:rkdtnlzl@gmail.com)
+
+
+
