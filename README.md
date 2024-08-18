@@ -20,21 +20,16 @@
 
 </div>
 
-## 💻 STACK
-
-![](https://img.shields.io/badge/Swift-F7DF1E?style=flat-square&logo=Swift&logoColor=black)
-<br>
-![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![](https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=JavaScript&logoColor=white)
-
 ## 🛠️ Tool
 
 <img src="https://img.shields.io/badge/xcode-%231575F9.svg?&style=for-the-badge&logo=xcode&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
 <img src="https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white" />
 <img src="https://img.shields.io/badge/microsoft%20teams-%236264A7.svg?&style=for-the-badge&logo=microsoft%20teams&logoColor=white" />
-
+<br>
+<img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />
 
 ## Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rkdtnlzl@gmail.com)](mailto:rkdtnlzl@gmail.com)
