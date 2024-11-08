@@ -6,16 +6,15 @@
 
 ## 💪 History
 <div align=center>
-💻 세종대학교 산학협력단 SW코딩역량평가 사이트 개발 (2022.03 ~ 2022.05)
-<br>
-📱 UMC 개발연합동아리 iOS 파트(2022.09 ~ 2023.02)
-<br>
-☁️ 9oormthon Univ 2기 iOS 파트(2024.02 ~ )
+🌱 새싹(SeSAC) iOS Memolease 5기 (2024.05.13 ~ 2024.11.07)
 <br>
 ☁️ 9oormthon Univ 벚꽃톤 참여 (2024.03.23 ~ 2024.03.24)
 <br>
-🌱 새싹(SeSAC) iOS Memolease 5기 (2024.05.13 ~ )
-
+☁️ 9oormthon Univ 2기 iOS 파트(2024.02 ~ )
+<br>
+📱 UMC 개발연합동아리 iOS 파트(2022.09 ~ 2023.02)
+<br>
+💻 세종대학교 산학협력단 SW코딩역량평가 사이트 개발 (2022.03 ~ 2022.05)
 </div>
 
 ## 🛠️ Tool
@@ -28,6 +27,13 @@
 <img src="https://img.shields.io/badge/microsoft%20teams-%236264A7.svg?&style=for-the-badge&logo=microsoft%20teams&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />
+
+## 💻 Stack
+<img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=UIKit&logoColor=white"/>
+<img src="https://img.shields.io/badge/RxSwift-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white"/>
+<img src="https://img.shields.io/badge/MVVM-003700?style=for-the-badge&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Combine-004600?style=for-the-badge&logo=Swift&logoColor=white"/>
 
 ## Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rkdtnlzl@gmail.com)](mailto:rkdtnlzl@gmail.com)
